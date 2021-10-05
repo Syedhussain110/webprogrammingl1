@@ -1,0 +1,6 @@
+layout: post 
+title:"site launched"
+date: 2021-09-01
+
+
+created a simple website using github pages with intergrated jekyll(note md files use markdown for syntax formatting). **bold** words. as markdown is actually is a lot easier to use for writing posts/notes than raw html.
